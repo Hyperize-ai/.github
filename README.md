@@ -1,4 +1,3 @@
-# .github
 # Hyperize 🤖
 > **Inteligência Artificial Nativa para Automação Empresarial**
 
